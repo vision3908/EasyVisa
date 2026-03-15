@@ -47,3 +47,4 @@ jobs:
         curl http://localhost:8000/ || exit 1
         docker stop test-container
         docker rm test-container
+        #ok
